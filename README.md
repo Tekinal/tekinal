@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tekin 👋
+Full-Stack B2B Revenue Partner & GTM Systems Architect**
 
-<!--
-**Tekinal/tekinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most developers build tools; I build end-to-end revenue engines. I specialize in bridging the gap between complex automation infrastructure and high-ticket B2B sales in the DACH & US markets.
 
-Here are some ideas to get you started:
+### ⚙️ The Architecture I Build
+- GTM & Data Orchestration:** Architecting central decision engines that turn raw data into qualified B2B signals.
+- AI Telephony & Voice:** Engineering low-latency inbound/outbound voice infrastructure (SIP, WebRTC, Twilio, Vapi).
+- Global Stop Logic:** Building strict API and webhook ecosystems to ensure TCPA/GDPR compliance across multi-channel outreach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Tech Stack
+- Orchestration:** n8n (Expert), Make, REST APIs, Webhooks
+- Voice/Comms:** Twilio, Telnyx, SIP, VoIP, OpenAI Realtime API
+- Data & Lead Gen:** Clay, Apify, Apollo, PhantomBuster
+- Languages & DBs:** JavaScript/Node.js, Python, PostgreSQL, Airtable
+- CRM Integration:** HubSpot, Pipedrive, Salesforce
+
+📫 https://www.linkedin.com/in/tekinaldemir/
